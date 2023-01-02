@@ -22,5 +22,4 @@ GM_xmlhttpRequest({
     nocache: true,
     onload: r => eval(r.responseText)
 })
-//fsaasdfd
 
