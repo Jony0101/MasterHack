@@ -23,4 +23,3 @@ GM_xmlhttpRequest({
     onload: r => eval(r.responseText)
 })
 
-//lol
