@@ -19,7 +19,7 @@
 
 GM_xmlhttpRequest({
     method: 'GET',
-    url: 'https://github.com/Jony0101/MasterHack/blob/main/release/masterhack.min.js',
+    url: 'https://github.com/Jony0101/MasterHack/raw/main/release/masterhack.min.js',
     nocache: true,
     onload: r => eval(r.responseText)
 })
