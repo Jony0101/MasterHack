@@ -8,7 +8,7 @@
 // @description  Tanki Online Cheat
 
 // @downloadURL  https://github.com/Jony0101/MasterHack/raw/main/release/masterhack.user.js
-// @updateURL    https://github.com/UUID1606/MegaHack/raw/main/release/MEGAHACK.meta.js
+// @updateURL    https://github.com/Jony0101/MasterHack/raw/main/release/masterhack.meta.js
 
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
