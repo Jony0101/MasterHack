@@ -1,5 +1,5 @@
 {
-  "name": "Zorro",
+  "name": "Jony",
   "version": "1.00.0",
   "description": "Free open-source game cheat for Tanki Online.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UUID1606/UUID1606.git"
+    "url": "git+https://github.com/Jony0101/Jony0101.git"
   },
-  "author": "UUID1606",
+  "author": "Jony0101",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UUID1606/UUID1606/issues"
+    "url": "https://github.com/Jony0101/Jony0101/issues"
   },
-  "homepage": "https://github.com/T0HBA/TOHBA#readme",
+  "homepage": "https://github.com/Jony0101/Jony0101#readme",
   "dependencies": {
     "gulp": "^4.0.2",
     "gulp-rename": "^2.0.0",
